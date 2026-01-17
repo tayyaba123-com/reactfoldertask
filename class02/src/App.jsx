@@ -62,7 +62,10 @@ const barbieProfiles = [
 
 
   return (
-    <div className='h-screen w-screen p-3 items-start  flex flex-1 gap-6  bg-[#F6F6F6]  flex-wrap'>
+    <div className=' h-full w-full p-3 items-start  flex  gap-6  bg-[#F6F6F6] 
+    flws-nowrap'
+     
+     >    
      
      {
       barbieProfiles.map((elem)=>{
