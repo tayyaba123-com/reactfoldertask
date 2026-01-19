@@ -63,7 +63,7 @@ const barbieProfiles = [
 
   return (
     <div className=' h-full w-full p-3 items-start  flex  gap-6  bg-[#F6F6F6] 
-    flws-nowrap'
+    flex-wrap'
      
      >    
      
